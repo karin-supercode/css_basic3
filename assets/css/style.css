@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+
+img .eins{
+    height:600px;
+}
+nav{
+    background-color: darkblue;
+}
+nav > ul > li{
+    list-style: none;
+    
+}
+a{
+    color:tomato;
+    
+}
+span{
+    color:red;
+}
