@@ -2,9 +2,6 @@ body{
     background-color: lightgray;
 }
 
-img .eins{
-    height:600px;
-}
 nav{
     background-color: darkblue;
 }
@@ -12,10 +9,11 @@ nav > ul > li{
     list-style: none;
     
 }
-a{
+section a{
     color:tomato;
+    text-decoration: none;
     
 }
 span{
-    color:red;
+    color:blueviolet;
 }
